@@ -1,7 +1,7 @@
 <h1 align="center">FLBRACE Reimagined
 <p align="center"><i>Re-designing the FLBRACE website</i></p></h1>
 
-<p align="center"><a href="https://github.com/Kr1shna304/FLBrace/"><img src="https://github.com/Kr1shna304/FLBrace/tree/main/Storyboard/OIG4.jpg"/></a></p>
+<p align="center"><a href="https://github.com/Kr1shna304/FLBrace/"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/OIG4.jpg"/></a></p>
 
 ## Introduction
 
@@ -28,17 +28,17 @@ too small. With resized dropdowns optimized for mobile, the user happily experie
 navigation adaptation.
 
 
-<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/tree/main/Storyboard/storyboard-1.png"/></p>
+<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/storyboard-1.png"/></p>
 
 #### 2. Medium Task: 
 A Florida resident, contemplating relocation, visits the FLBrace website to assess hazard impacts in different areas. They navigate to the About section and access the Florida Vulnerability Assessment. Upon selecting the full report option, they delve into studying hazard data, enabling them to make informed decisions regarding location selection
 
-<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/tree/main/Storyboard/Mid-fi prototype_page-0001.jpg"/></p>
+<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0001.jpg"/></p>
 
 #### 3. Complex Task: 
 A general user explores the FLBrace website's webinar series section and chooses a category of interest. Subsequently, they select a specific webinar based on brief descriptions, enabling them to engage in targeted viewing of desired content. This interactive experience facilitates enhanced accessibility and engagement with the webinar platform
 
-<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/tree/main/Storyboard/Mid-fi prototype_page-0002.jpg"/></p>
+<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0002.jpg"/></p>
 
 ## Figma
 
