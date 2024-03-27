@@ -33,12 +33,12 @@ navigation adaptation.
 #### 2. Medium Task: 
 A Florida resident, contemplating relocation, visits the FLBrace website to assess hazard impacts in different areas. They navigate to the About section and access the Florida Vulnerability Assessment. Upon selecting the full report option, they delve into studying hazard data, enabling them to make informed decisions regarding location selection
 
-<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0001.jpg"/></p>
+<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0002.jpg"/></p>
 
 #### 3. Complex Task: 
 A general user explores the FLBrace website's webinar series section and chooses a category of interest. Subsequently, they select a specific webinar based on brief descriptions, enabling them to engage in targeted viewing of desired content. This interactive experience facilitates enhanced accessibility and engagement with the webinar platform
 
-<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0002.jpg"/></p>
+<p align="center"><img src="https://github.com/Kr1shna304/FLBrace/blob/main/Storyboard/Mid-fi%20prototype_page-0001.jpg"/></p>
 
 ## Figma
 
