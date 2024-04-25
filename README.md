@@ -46,6 +46,23 @@ Design Link : https://www.figma.com/file/XCxVTPWfXcXHNM7EBxyk2E/Interactive-Drop
 
 Interactive Prototype Link : https://www.figma.com/proto/XCxVTPWfXcXHNM7EBxyk2E/Interactive-Dropdown-Menu-Design?type=design&node-id=2083-49&t=FjrWScClFYCCxmkP-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2083%3A49&show-proto-sidebar=1&mode=design
 
+# How to Run 
+
+# Implementation Details
+
+## Requirements
+
+To run the code in this repository, you will need to have the following installed:
+
+1. Joomla 4.4.0: Download and install Joomla from [here](https://downloads.joomla.org/cms/joomla4/4-4-0)
+2. Helix Pro: Purchase and download Helix Pro framework from [here](https://www.joomshaper.com/joomla-templates/helix)
+
+## FLBRACE website 
+
+Use FSU secure network or FSU VPN to preview the website through this preview link.
+
+[FLBRACE WEBSITE](https://helix.flbrace.org/index.php?option=com_sppagebuilder&view=page&id=149)
+     
 ## Team 4
 
 ### Krishna Saketh Kamadana
